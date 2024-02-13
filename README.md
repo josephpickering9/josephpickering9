@@ -9,4 +9,5 @@ All things software development, especially when it involves creating projects t
 - 📫 How to reach me ...
 
 Email: josephpickering9@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/josephpickering/
